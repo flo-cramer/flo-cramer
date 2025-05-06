@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+👯 I’m looking to collaborate on research on distribution and provisioning systems, particularly in the (agri-)food area 
+📫 How to reach me: florian.cramer@uni-bayreuth.de // florian.cramer@klu.org
+
+My OCID profile: https://orcid.org/my-orcid?orcid=0000-0002-5596-6035
+
+
 <!--
 **flo-cramer/flo-cramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
